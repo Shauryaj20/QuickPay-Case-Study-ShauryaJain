@@ -1,0 +1,3 @@
+transaction_id,transaction_date_ledg,merchant_id_ledg,amount_usd_ledg,status_ledg,payment_method_ledg,transaction_date_gw,merchant_id_gw,amount_usd_gw,status_gw,payment_method_gw,_merge
+R004,2026-03-02,M003,2100.0,success,Card,,,,,,left_only
+R010,2026-03-05,M004,2500.0,success,Wallet,,,,,,left_only
