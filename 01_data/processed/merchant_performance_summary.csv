@@ -1,0 +1,8 @@
+Row Labels,Sum of amount_usd,Count of transaction_id,Sum of high_risk_flag
+Alpha Mart,40812,11,2
+Beta Stores,41782,11,5
+City Pharma,8640,2,0
+Delta Travels,14600,4,1
+Eco Home,10246,2,1
+(blank),,,
+Grand Total,116080,30,9
